@@ -11,3 +11,9 @@
 ul {
   list-style: none;
 }
+
+.user-list {
+  font-size: 20px;
+  display: grid;
+  
+}
