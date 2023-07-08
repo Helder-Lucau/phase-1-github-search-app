@@ -1,4 +1,4 @@
-const accessToken = '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';
+const accessToken = '';
 const searchInput = document.querySelector('form')
 const userList = document.getElementById('user-list')
 
